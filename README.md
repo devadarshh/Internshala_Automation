@@ -101,14 +101,6 @@ The script will launch a browser window and start interacting with Internshala, 
 
 ---
 
-### Disclaimer
-This script is intended for educational purposes only. Automating form submissions on websites should be done with caution and respect to the terms and conditions of the platform.
-
----
-
-### License
-This project is licensed under the MIT License.
-
 ---
 
 ### Contribution
